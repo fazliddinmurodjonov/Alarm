@@ -1,6 +1,6 @@
 # Alarm
 
-<img src="images/img_1.jpg" width = "270" > <img src="images/img_2.jpg" width = "270" > <img src="images/img_3.jpg" width = "270" >
+<img src="images/img_1.png" width = "270" > <img src="images/img_2.png" width = "270" > <img src="images/img_3.png" width = "270" >
 
 
 
