@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/77713867/178657807-557fdc2c-8c94-4ee3-
 
 
 <img src="images/logo.png" width = "250">
-<img src="images/logo_circle.png" width = "250">
+<img src="images/log_circle.png" width = "250">
 
 # Resources:
 
